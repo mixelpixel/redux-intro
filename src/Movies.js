@@ -9,4 +9,8 @@ class Movies extends Component {
   }
 }
 
+const mapStateToProps = () => {
+  
+}
+
 export default Movies;
