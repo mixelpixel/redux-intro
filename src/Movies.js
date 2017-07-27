@@ -10,8 +10,9 @@ class Movies extends Component {
       <ul>
         {this.props.movies.map((movie, i) => {
           return (
-            <li key={i}>
-              
+            <li key={i}
+                onClick={() => this.props.selectMovie(movie)}
+                >
               {movie.title}
             </li>
           );
