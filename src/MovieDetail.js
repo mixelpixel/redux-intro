@@ -3,6 +3,7 @@ import { connect } from 'react-redux';
 
 class MovieDetail extends Component {
   render() {
+    if (this.props.movie === null) return null;
     return (
       <div>
         <h1>{this.props.movie.title}</h1>
