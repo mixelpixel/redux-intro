@@ -4,7 +4,7 @@ import moviesReducer from './movies';
 // to accomodate an array of movie titles
 // and the selection of one movie
 const rootReducer = combineReducers({
-  movies:
+  movies: moviesReducer
 });
 
 export rootReducer;
