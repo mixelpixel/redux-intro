@@ -12,9 +12,9 @@ v8.0.0
 
 Project Setup:
 ```console
-1 $  create-react-app redux-intro
-2 $  cd redux-intro
-3 $  npm i --save react-redux redux
+$  create-react-app redux-intro
+$  cd redux-intro
+$  npm i --save react-redux redux
 ```
 
 ```console
