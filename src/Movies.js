@@ -9,7 +9,12 @@ class Movies extends Component {
     return (
       <ul>
         {this.props.movies.map((movie, i) => {
-          return <li key={i}>{movie.title}</li>
+          return (
+            <li key={i}>
+              
+              {movie.title}
+            </li>
+          );
         })}
       </ul>
     );
