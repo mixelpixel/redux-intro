@@ -4,7 +4,7 @@ import ul from './Movies.css'
 
 class Movies extends Component {
   render() {
-    console.log(this.props);
+    // console.log(this.props);
     return (
       <ul>
         {this.props.movies.map((movie, i) => {
