@@ -1,8 +1,16 @@
-This project was created July 26, 2017 while following along Ben Nelson's lecture to the first Lambda University (CS1) class introducing the Redux framework in conjunction with React.
+This project was created July 26, 2017 while following along Ben Nelson's lecture to the first Lambda University (CS1) class introducing the Redux framework in conjunction with React:
 
 https://youtu.be/wJatXrRg8rw
 
-Setup:
+In particular I am using macOS10.12.5 along with:
+```console
+$  npm -v
+5.1.0
+$  node -v
+v8.0.0
+```
+
+Project Setup:
 1. `$  create-react-app redux-intro`
 2. `$  npm i --save react-redux redux`
 
