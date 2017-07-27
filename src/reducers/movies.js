@@ -1,6 +1,6 @@
 // export default () => {
 export default (movies, action) => { // <---- just for console.log() demo
-  console.log('>>>>>>>>> action of movie reducer', action);
+  console.log('>>>>>>>>> action of reducers/movies.js', action);
   return [
     {
       title: 'The Godfather'
