@@ -11,8 +11,11 @@ v8.0.0
 ```
 
 Project Setup:
-1. `$  create-react-app redux-intro`
-2. `$  npm i --save react-redux redux`
+```console
+1 $  create-react-app redux-intro
+2 $  cd redux-intro
+3 $  npm i --save react-redux redux
+```
 
 ```console
 $  create-react-app redux-intro
@@ -56,6 +59,7 @@ $  create-react-app redux-intro
 
   Happy hacking!
 
+$  cd redux-intro
 $  npm i --save react-redux redux
   + redux@3.7.2
   + react-redux@5.0.5
