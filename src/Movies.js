@@ -6,7 +6,7 @@ class Movies extends Component {
     console.log(this.props);
     return (
       <ul>
-        {this.props.movie.map((movies, i) => {
+        {this.props.movies.map((movie, i) => {
           return <li key={i}>{movie.title}</li>
         })}
       </ul>
