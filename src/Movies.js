@@ -10,7 +10,9 @@ class Movies extends Component {
 }
 
 const mapStateToProps = (state) => {
-
+  return {
+    movies: state.movies
+  };
 }
 
-export default Movies;
+export default connect()(Movies);
