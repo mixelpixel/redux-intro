@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import ul from './Movies.css'
 
 class Movies extends Component {
   render() {
