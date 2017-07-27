@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import ul from './Movies.css'
+import { selectMovie } from './actions'
 
 class Movies extends Component {
   render() {
