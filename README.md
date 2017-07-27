@@ -4,10 +4,10 @@ https://youtu.be/wJatXrRg8rw
 
 In particular I am using macOS10.12.5 along with:
 ```console
+$  create-react-app --version
+1.3.1
 $  npm -v
 5.1.0
-$  node -v
-v8.0.0
 ```
 
 Project Setup:
