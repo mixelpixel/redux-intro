@@ -1,4 +1,4 @@
-This project was created July 26, 2017 while following along Ben Nelson's lecture to the first Lambda University (CS1) class introducing the Redux framework in conjunction with React:
+This project was created July 26, 2017 while following along Ben Nelson's lecture for the first Lambda University (CS1) classes introduction to the Redux framework in conjunction with React:
 
 https://youtu.be/wJatXrRg8rw
 
